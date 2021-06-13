@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @walterx5248
+- 👋 Hi, I’m Rohit Kumar Singh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding adda
