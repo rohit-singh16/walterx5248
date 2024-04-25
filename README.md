@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rohit Kumar Singh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on coding adda
+- 🌱 Working on Java, Spring Boot, Servlets/JSP
 - 📫 How to reach me ping me
 
 <!---
