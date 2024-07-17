@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Kumar Singh
-- 👀 I’m interested in coding
-- 🌱 Working on Java, Spring Boot, Servlets/JSP
+- 👀 I’m a Software Developer
+- 🌱 Working on Java, Spring Boot, Servlets/JSP, Stencil JS, React TS, .NET Framework.
 - 📫 How to reach me ping me
 
 <!---
