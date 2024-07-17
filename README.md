@@ -16,10 +16,6 @@
 ### My GitHub Stats
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walterx5248&show_icons=true&count_private=true&hide=contribs)
 
-### Recent Projects
-- [Project 1](https://github.com/walterx5248/project1): Short description
-- [Project 2](https://github.com/walterx5248/project2): Short description
-
 ### Let's Connect
 - LinkedIn: [Rohit Kumar Singh](www.linkedin.com/in/rohitksingh0516)
 - Email: rohit.push5248@gmail.com
